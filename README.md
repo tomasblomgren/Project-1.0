@@ -1,108 +1,67 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+<h1>SIGTUNA SWEDENS OLDEST CITY</h1>
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+<p>This projects purpose is to find a tourguide for any visitors stopping by and giving them an easy way to find their way around. Sigtuna is the oldest standing and functioning city and has alot of history from the year 980 to this day. The city has old viking ruins and churches placed all around which is displayed in the gallery page. The contact page provided will help you get in touch with one of our available guides to take you on your personal tour.</p>
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+</header>
 
-`python3 -m http.server`
+<p>Existing Features</p>
 
-A blue button should appear to click: _Make Public_,
+<p>The features displayed are a home page, gallery page and a contact page with a form and a tabled list with activities. Points of interests  of your choosing and guides. These features are displayed on three separate pages to make it as clean as possible. The headline is also a clickable button that takes you back to the home page.</p>
 
-Another blue button should appear to click: _Open Browser_.
+<p>The Home Page</p>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+<p>The home page is where you are introduced to the History of Sigtuna with a description of its significance to Sweden and the rest of the world. Below that is a overview picture of the city during summertime taken from land facing out</p>
 
-A blue button should appear to click: _Make Public_,
+<p>Navigation Bar</p>
 
-Another blue button should appear to click: _Open Browser_.
+<p>Included on all three pages there are a Home, Gallery and Contact button placed in the upper right corner. The navigation bar is placed on top to the right on all separate pages to make it easy and consistent</p>
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+<p>Homepage Information</p>
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+<p>here you can will get a brief explanation of Sigtuna and its history and relevance to the rest of the world and the inhabitants.The homepage image is the center of the city with an overview. </p>
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+<div>
+<p>The Gallery Page</p>
+![alt text](/workspace/Projekt1/assets/css/images/screenshot gallery 1.png)
+<p>In the gallery there are pictures of old remeniscance of both christians and Vikings who used to inhibit Sigtuna at different time periods. Runic stones describe who they where raised to. The ruins of old monasteries mark the start of a newer chapter and the seat of the first christian King which lived in Sigtuna. Olof Skötkonung was the man behind both making a more civilized society and making the first coins therefore putting Sweden on the map. The red Church placed in the gallery is still standing and is used to this day and the belltower was used to summon to mass.   </p>
+</div>
+<p>The Contact Page</p>
 
-------
+<p>Schedule</p>
+<p>The top of the contact page provides a schedule of activities and tours you could partake in and which time of day certain tours take place. </p>
 
-## Release History
+<p>Subscribe form</p>
+<p>The form below is the contact form in itself where you can get in touch with one of the guides and get started!</p>
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+<p>Footer</p>
+<p>The footer displayed at the bottom of each page is providing the user to social media links and a google maps function that will help you on your way. links ordered from left to right are Facebook, Twitter, Youtube and Google maps. All links are provided on each page</p>
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+<p>Testing</p>
+<p>The methods i have used to test this project is a CSS validator called Validator W3C "The markup validation services" and a responsinator called Jigsaw validator. The website loads smoothly and doesnt load on section at a time. </p>
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+<p>HTML</p>
+<p>CSS</p>
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+<p>Unfixed bugs</p>
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+<p>Deployment</p>
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+<p>Credits</p>
+The 
+<p>Content</p>
+<p>The text sections where written by myself but where inspired by this wikipedia header(https://sv.wikipedia.org/wiki/Sigtuna)</p>
+<p>The icons placed in the footer where taken from Font Awesome (https://fontawesome.com/icons)</p>
+<p>The text fonts where taken from Google Fonts (https://fonts.google.com/)</p>
+<p>Media</p>
+<p>The pictures from the home and gallery page was taken from following sites: 
+(https://www.google.com/search?q=sigtuna+runstenar&rlz=1C1CHBF_svSE976SE977&sxsrf=APq-WBsZcNm4zAngGRG_M7GIVFunyXYt0g:1648576318476&source=lnms&tbm=isch&sa=X&ved=2ahUKEwir6OOu8ev2AhV6QvEDHQUxAd0Q_AUoAXoECAEQAw&biw=1536&bih=746&dpr=1.25) (https://www.google.com/search?q=klocktornet+sigtuna&rlz=1C1CHBF_svSE976SE977&hl=sv&sxsrf=APq-WBtoksMoZWuwdKn94P5_W8oWDpYZUQ:1648576423143&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiyntjg8ev2AhVvR_EDHVFJAfsQ_AUoAnoECAEQBA&biw=1536&bih=746&dpr=1.25)</p>
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+</body>
+<footer>
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+</footer>
+</html>
